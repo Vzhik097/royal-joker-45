@@ -1,0 +1,19 @@
+{
+  "name": "ROYAL JOKER DEMO: speel slot demo met > $670 + 320 FS",
+  "short_name": "ROYAL JOKER DEMO",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#a855f7",
+  "background_color": "#0a0118",
+  "display": "standalone"
+}
